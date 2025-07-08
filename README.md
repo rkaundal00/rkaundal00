@@ -6,5 +6,5 @@
 - I'm interested in building and working with machine learning models.
 - I'm open to collaborate on cool projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaundal00&show_icons=true&locale=en" alt="rkaundal00" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaundal00&show_icons=true&locale=en&theme=tokyonight" alt="rkaundal00" /></p>
 
